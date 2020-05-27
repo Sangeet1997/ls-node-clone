@@ -13,4 +13,4 @@
 - Using "fs" module to work with file system
 - Used callback fuctions of ls module and used promises and also used inbuilt promise function in the fs module to get over problems of the callback functions
 - Problems of the callback function generated from the time taken by the system to get the filenames and to determine if its a file or folder 
-- used chalk to get colored output in cmd promt console
+- used "chalk" to get colored output in cmd promt console
